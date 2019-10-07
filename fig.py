@@ -10,4 +10,6 @@ ax = plt.subplot(111, projection='polar')
 #polar 极圈图
 bars = ax.bar(theta, height, width)
 
+
+
 plt.show()
